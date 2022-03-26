@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![alt text](https://{insert your image URL} “add your alt text”)
+![Andres’ GitHub stats](https://github-readme-stats.vercel.app/api?username=mshyam25&theme=synthwave&show_icons=true&count_private=true “Andres’ GutHub Stats”)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mshyam25&theme=synthwave “Andres’ Top Languages Card”)
+<a href=”https://www.linkedin.com/in/andres-villegas-79867ab7/"> ![alt text](https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn)</a>

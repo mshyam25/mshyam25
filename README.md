@@ -15,11 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm **Shyam** a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+I'm **Shyam** a passionate full stack web developer in the making. My interest for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
 # Languages && Tools
 
-> ![Image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png?height=100&&width=100)
-> ![Image](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
-> 
+> JavaScript
+> React JS
+> Node JS
+> MongoDB
+> Mongoose
+> Html & CSS
+
+![Image](https://github-readme-stats.vercel.app/api?username=mshyam25&theme=synthwave&show_icons=true&count_private=true)
 

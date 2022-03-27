@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 
 I'm **Shyam** a passionate full stack web developer in the making. My interest for software lies with dreaming up ideas and making them come true with elegant interfaces. 
 
-# Languages && Tools
+### Techs
 
-> JavaScript
-> React JS
-> Node JS
-> MongoDB
-> Mongoose
-> Html & CSS
+- JavaScript
+- React JS
+- Node JS
+- MongoDB
+- Mongoose
+- Html & CSS
 
 ![Image](https://github-readme-stats.vercel.app/api?username=mshyam25&theme=synthwave&show_icons=true&count_private=true)
 
